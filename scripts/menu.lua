@@ -6,7 +6,6 @@
 
 binds = {
 	Toggle_Forcefield = "c", 
-	Open_Menu = "n", -- Only one that can't be changed!
 }
 
 local bindBackup = deepcopy(binds)
@@ -17,7 +16,6 @@ local bindOrder = {
 		
 local bindNames = {
 	Toggle_Forcefield = "Toggle Forcefield", 
-	Open_Menu = "Open Menu",
 }
 
 local menuOpened = false
