@@ -1,4 +1,4 @@
 name = Forcefield
 author = NLferdiNL
-description = Toggleable forcefield, all settings are found ingame.
+description = [noupload]Toggleable forcefield, all settings are found ingame.
 tags = Tool
